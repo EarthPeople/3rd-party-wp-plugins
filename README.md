@@ -1,5 +1,5 @@
 # 3rd Party WordPress Plugins
-A list of third party WP plugins we like use. 
+A list of third party WP plugins we like to use. 
 
 ## A checklist for evaluating plugins:
 - Is it version controlled and stable?
