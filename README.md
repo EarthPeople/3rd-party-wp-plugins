@@ -7,7 +7,7 @@ A list of third party WP plugins we like to use.
 - Does it have a track-record?
 - Is it maintained? 
 - Has anyone we know used it before?
-- Does it add a lot of extra scripts/styles?
+- Does it not add a lot of extra scripts/styles?
 
 ## Plugins
 #### Enhanced Media Library PRO - [Link](https://sv.wordpress.org/plugins/enhanced-media-library/) 
