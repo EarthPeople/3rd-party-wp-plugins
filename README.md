@@ -18,3 +18,6 @@ Super easy custom fields!
 
 #### WP Offload S3 Lite - [Link](https://sv.wordpress.org/plugins/amazon-s3-and-cloudfront/)
 Copies uploaded files from media library to Amazon S3 and then replaces the URL to each media file with their respective Amazon S3 URL.
+
+#### [Simple History](https://wordpress.org/plugins/simple-history/)
+Keeps an event log of what the users of the site has been up to, whats posts have they edited, what images have they uploaded, what plugins have they installed, and so on.
