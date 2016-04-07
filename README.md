@@ -21,3 +21,5 @@ Copies uploaded files from media library to Amazon S3 and then replaces the URL 
 
 #### [Simple History](https://wordpress.org/plugins/simple-history/)
 Keeps an event log of what the users of the site has been up to, whats posts have they edited, what images have they uploaded, what plugins have they installed, and so on.
+
+#### [Duplicate Post](https://wordpress.org/plugins/duplicate-post/)
