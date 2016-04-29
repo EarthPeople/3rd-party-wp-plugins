@@ -28,7 +28,7 @@ Clone posts and pages. Has support for filters/actions, so you easily can extend
 #### [User Switching](https://wordpress.org/plugins/user-switching/)
 Instant switching between user accounts in WordPress. Switching back to original account is just a click away too.
 
-### [Slash Edit)[https://wordpress.org/plugins/slash-edit/]
+### [Slash Edit)(https://wordpress.org/plugins/slash-edit/)
 Edit your posts or pages with a simple "/edit" at the end. The readme says it all:
 
 This is useful if:
