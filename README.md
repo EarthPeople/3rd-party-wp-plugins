@@ -35,4 +35,4 @@ This is useful if:
 
 - You are not logged in, and want an easy shortcut to edit an item.
 - You hate the admin bar and have disabled it, but still want an easy shortcut to edit an item.
-- 
+
