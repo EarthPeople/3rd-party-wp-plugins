@@ -37,4 +37,4 @@ This is useful if:
 - You hate the admin bar and have disabled it, but still want an easy shortcut to edit an item.
 
 #### [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/)
-Manage and view all cron events
+Manage and view all cron events.
