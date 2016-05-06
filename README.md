@@ -28,7 +28,7 @@ Clone posts and pages. Has support for filters/actions, so you easily can extend
 #### [User Switching](https://wordpress.org/plugins/user-switching/)
 Instant switching between user accounts in WordPress. Switching back to original account is just a click away too.
 
-### [Slash Edit](https://wordpress.org/plugins/slash-edit/)
+#### [Slash Edit](https://wordpress.org/plugins/slash-edit/)
 Edit your posts or pages with a simple "/edit" at the end. The readme says it all:
 
 This is useful if:
@@ -36,3 +36,5 @@ This is useful if:
 - You are not logged in, and want an easy shortcut to edit an item.
 - You hate the admin bar and have disabled it, but still want an easy shortcut to edit an item.
 
+#### [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/)
+Manage and view all cron events
