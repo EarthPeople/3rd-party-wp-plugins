@@ -23,7 +23,7 @@ Copies uploaded files from media library to Amazon S3 and then replaces the URL 
 Keeps an event log of what the users of the site has been up to, whats posts have they edited, what images have they uploaded, what plugins have they installed, and so on.
 
 #### [Duplicate Post](https://wordpress.org/plugins/duplicate-post/)
-Clone posts and pages. Has support for filters/actions, so you easily can extend it to copy more stuff.
+Clone posts and pages. Has support for filters/actions, so you easily can extend it to copy more stuff. Especially useful in development for quickly creating a lot of placeholder content.
 
 #### [User Switching](https://wordpress.org/plugins/user-switching/)
 Instant switching between user accounts in WordPress. Switching back to original account is just a click away too.
