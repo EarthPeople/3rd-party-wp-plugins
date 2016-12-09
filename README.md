@@ -20,6 +20,9 @@ Clone posts and pages. Has support for filters/actions, so you easily can extend
 #### [Enhanced Media Library PRO](https://sv.wordpress.org/plugins/enhanced-media-library/)
 Categories and tags for media items. PRO also adds bulk editing.
 
+#### [Regenerate Thumbnails](https://sv.wordpress.org/plugins/regenerate-thumbnails/)
+Very handy if you've changed any of your thumbnail dimensions after uploading images.
+
 #### [Simple History](https://wordpress.org/plugins/simple-history/)
 Keeps an event log of what the users of the site has been up to, whats posts have they edited, what images have they uploaded, what plugins have they installed, and so on.
 
