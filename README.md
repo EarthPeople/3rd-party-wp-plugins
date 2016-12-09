@@ -41,3 +41,6 @@ Manage and view all cron events.
 
 #### [W3 Total Cache](https://sv.wordpress.org/plugins/w3-total-cache/)
 Caching.
+
+#### [Duplicate Post](https://sv.wordpress.org/plugins/duplicate-post/)
+A plugin that let's you duplicate a post and all it's contents with just a button press. Mostly useful in development for quickly creating a lot of placeholder content.
