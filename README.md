@@ -1,16 +1,16 @@
 # 3rd Party WordPress Plugins
-A list of third party WP plugins we like to use. 
+A list of third party WP plugins we like to use.
 
 ## A checklist for evaluating plugins:
 - Is it version controlled and stable?
 - Is there a vivid community around it?
 - Does it have a track-record?
-- Is it maintained? 
+- Is it maintained?
 - Has anyone we know used it before?
 - Does it not add a lot of extra scripts/styles?
 
 ## Plugins
-#### [Enhanced Media Library PRO](https://sv.wordpress.org/plugins/enhanced-media-library/) 
+#### [Enhanced Media Library PRO](https://sv.wordpress.org/plugins/enhanced-media-library/)
 Categories and tags for media items. PRO also adds bulk editing.
 
 #### [Advanced Custom Fields PRO](https://www.advancedcustomfields.com/)
@@ -38,3 +38,6 @@ This is useful if:
 
 #### [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/)
 Manage and view all cron events.
+
+#### [W3 Total Cache](https://sv.wordpress.org/plugins/w3-total-cache/)
+Caching.
