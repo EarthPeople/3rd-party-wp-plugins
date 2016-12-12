@@ -41,6 +41,9 @@ Instant switching between user accounts in WordPress. Switching back to original
 #### [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/)
 Manage and view all cron events.
 
+#### [WP Help](https://wordpress.org/plugins/wp-help/)
+Create detailed documentation for the site's authors and editors.
+
 #### [WP Offload S3 Lite](https://sv.wordpress.org/plugins/amazon-s3-and-cloudfront/)
 Copies uploaded files from media library to Amazon S3 and then replaces the URL to each media file with their respective Amazon S3 URL.
 
